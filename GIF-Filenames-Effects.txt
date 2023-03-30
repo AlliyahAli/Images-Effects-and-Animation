@@ -1,0 +1,6 @@
+Saskatoon.gif                 sepia
+MoraineLake.gif               redTint
+Maracas.gif                   blueTint
+ScarletIbis.gif               brighten
+PigeonPoint.gif               grayScale
+
